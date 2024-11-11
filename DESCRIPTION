@@ -1,0 +1,13 @@
+Package: AlgorithmeProximal
+Type: Package
+Title: troubleshooting optimization and regularization issues
+Version: 0.0.0.9000
+Authors@R:
+    person("Ngana","Divin", , "nganadivin@gmail.com", role = c("aut","cre"), 
+          comment= c(ORCID = "YOUR-ORCID-ID"))
+Description: This package allows to minimize a problem consisting of two functions (fidelity function and regularization function) using the proximal gradient method; It focuses on the manipulation, transformation of a 2D image into 3D.
+License: GPL-3
+Encoding: UTF-8
+Poxygen: list(markdown = true)
+LazyData: true
+RoxygenNote: 7.3.2
